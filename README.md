@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Rizal Haryaputra  
 
-<!--
-**RizalHaryaputra/RizalHaryaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm an **IT Student** and **Web Developer** passionate about building modern web applications with **Laravel, Livewire, Tailwind CSS**, and exploring **AI-powered solutions**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: PHP, JavaScript, Python  
+- **Frameworks & Tools**: Laravel 10, Livewire 3, Tailwind CSS, Filament 3  
+- **Databases**: MySQL, SQLite  
+- **Others**: Git, GitHub, Figma, Mailtrap, Stripe API, Web3Forms  
+
+---
+
+## 📌 Featured Projects
+- 🛒 [UltraShop](https://github.com/RizalHaryaputra/ultra-shop)  
+  *E-commerce platform built with Laravel, Livewire, and Tailwind CSS with AI Chatbot integration.*  
+
+- 📚 [Bookself Apps](https://github.com/RizalHaryaputra/bookself-apps)  
+  *Bookshelf web application for managing book collections.*  
+
+- 🌐 [My Portfolio](https://rizalharyaputra.github.io/my-portfolio/)  
+  *Personal portfolio website showcasing my projects.*  
+
+- 🏫 [Data Mahasiswa MVC](https://github.com/RizalHaryaputra/Data-Mahasiswa-MVC)  
+  *Student management system using PHP MVC pattern.*  
+
+---
+
+## 📊 GitHub Stats
+![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizalHaryaputra&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Currently Learning
+- IoT (Smart Irrigation with Telegram Bot)  
+- AI integration in E-commerce  
+- Green Technology in IT  
+
+---
+
+## 📫 Let's Connect!
+- 🌐 Portfolio: [rizalharyaputra.vercel.app](https://rizalharyaputra.vercel.app)  
+- 📷 Instagram: [@rzalhrya_](https://instagram.com/rzalhrya_)  
+- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 📧 Email: *(add your email here for professional contact)*  
+
+---
+
+✨ *"Code, Learn, and Share – because knowledge grows when shared."*  

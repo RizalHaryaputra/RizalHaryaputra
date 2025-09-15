@@ -5,8 +5,8 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: PHP, JavaScript, Python  
-- **Frameworks & Tools**: Laravel 10, Livewire 3, Tailwind CSS, Filament 3  
+- **Languages**: PHP, JavaScript, Python, Java 
+- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3  
 - **Databases**: MySQL, SQLite  
 - **Others**: Git, GitHub, Figma, Mailtrap, Stripe API, Web3Forms  
 
@@ -33,17 +33,14 @@
 ---
 
 ## 🌱 Currently Learning
-- IoT (Smart Irrigation with Telegram Bot)  
-- AI integration in E-commerce  
-- Green Technology in IT  
+- Machine Learning 
 
 ---
 
 ## 📫 Let's Connect!
 - 🌐 Portfolio: [rizalharyaputra.vercel.app](https://rizalharyaputra.vercel.app)  
 - 📷 Instagram: [@rzalhrya_](https://instagram.com/rzalhrya_)  
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📧 Email: *(add your email here for professional contact)*  
+- 📧 Email: *(rzlhryptr@gmail.com)*  
 
 ---
 

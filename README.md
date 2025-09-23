@@ -13,25 +13,20 @@
 ---
 
 ## 📌 Featured Projects
-- 📚 [Sadakah](https://sadakah.id/)  
+- ♻️ [Sadakah](https://sadakah.id/)  
   *A web-based platform that empowers communities to optimize waste management through digital innovation.*
   
 - 🛒 [UltraShop](https://github.com/RizalHaryaputra/ultra-shop)  
   *E-commerce platform built with Laravel, Livewire, and Tailwind CSS with AI Chatbot integration.*  
 
-- 🌐 [My Portfolio](https://rizalharyaputra.github.io/my-portfolio/)  
+- 🏣 [Jobank](https://github.com/RizalHaryaputra/jobank)  
   *A platform for managing and matching job opportunities with candidates efficiently.*  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizalHaryaputra&show_icons=true&theme=tokyonight" alt="Rizal's GitHub stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalHaryaputra&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
 
 
 ---

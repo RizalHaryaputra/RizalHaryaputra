@@ -30,10 +30,6 @@
 ## 📊 GitHub Stats
 ![Rizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizalHaryaputra&show_icons=true&theme=radical)  
 
----
-
-## 🌱 Currently Learning
-- Machine Learning 
 
 ---
 

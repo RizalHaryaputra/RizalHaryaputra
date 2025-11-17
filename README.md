@@ -6,9 +6,9 @@
 
 ## 🔧 Tech Stack
 - **Languages**: PHP, JavaScript, Python, Java 
-- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3  
+- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3, Streamlit
 - **Databases**: MySQL, SQLite  
-- **Others**: Git, GitHub, Figma, Mailtrap, Stripe API, Web3Forms  
+- **Others**: Git, GitHub, Figma, Trello, Notion
 
 ---
 

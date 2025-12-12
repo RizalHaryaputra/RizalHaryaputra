@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Rizal Haryaputra  
 
-💻 I'm an **IT Student** and **Web Developer** passionate about building modern web applications with **Laravel, Livewire, Tailwind CSS**, and exploring **AI-powered solutions**.  
+💻 I'm an **IT Student** and **Web Developer** passionate about building modern web applications with **Laravel** and exploring **AI-powered solutions**.  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: PHP, JavaScript, Python, Java 
-- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3, Streamlit
-- **Databases**: MySQL, SQLite  
-- **Others**: Git, GitHub, Figma, Trello, Notion
+- **Languages**: PHP, JavaScript, Python, Java, VB.NET
+- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3, Streamlit, WordPress, Elementor
+- **Databases**: MySQL, SQLite, Firebase  
+- **Others**: Git, GitHub, VS Code, Visual Studio, Android Studio, Google Colab, Figma, Trello, Notion
 
 ---
 
 ## 📌 Featured Projects
-- ♻️ [Sadakah](https://sadakah.id/)  
+- ♻️ [Sadakah](https://sadakah.gunungkidulkab.go.id/)  
   *A web-based platform that empowers communities to optimize waste management through digital innovation.*
-  
+
+- 🏣 [Kopma UNY](https://kopmauny.id/)  
+  *A web application for managing the operations, membership, and services of the student cooperative at Universitas Negeri Yogyakarta.*
+
 - 🛒 [UltraShop](https://github.com/RizalHaryaputra/ultra-shop)  
   *E-commerce platform built with Laravel, Livewire, and Tailwind CSS with AI Chatbot integration.*  
-
-- 🏣 [Jobank](https://github.com/RizalHaryaputra/jobank)  
-  *A platform for managing and matching job opportunities with candidates efficiently.*  
 
 ---
 
@@ -28,13 +28,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RizalHaryaputra&show_icons=true&theme=tokyonight" alt="Rizal's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalHaryaputra&layout=compact&theme=tokyonight" alt="Top Langs"/>
 
-
 ---
 
 ## 📫 Let's Connect!
 - 🌐 Portfolio: [rizalharyaputra.vercel.app](https://rizalharyaputra.vercel.app)  
 - 📷 Instagram: [@rzalhrya_](https://instagram.com/rzalhrya_)  
-- 📧 Email: *(rzlhryptr@gmail.com)*  
+- 📧 Email: [rzlhryptr@gmail.com](mailto:rzlhryptr@gmail.com)
+- 📱 WhatsApp: [+62 878 5503 8324](https://wa.me/6287855038324?text=Hi%2C%20Rizal)  
 
 ---
 

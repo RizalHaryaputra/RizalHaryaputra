@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack
 - **Languages**: PHP, JavaScript, Python, Java, VB.NET
-- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament 3, Streamlit, WordPress, Elementor
+- **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament, React, Vue, Nuxt, Streamlit, WordPress, Elementor
 - **Databases**: MySQL, SQLite, Firebase  
 - **Others**: Git, GitHub, VS Code, Visual Studio, Android Studio, Google Colab, Figma, Trello, Notion
 
@@ -19,8 +19,8 @@
 - 🏣 [Kopma UNY](https://kopmauny.id/)  
   *A web application for managing the operations, membership, and services of the student cooperative at Universitas Negeri Yogyakarta.*
 
-- 🛒 [UltraShop](https://github.com/RizalHaryaputra/ultra-shop)  
-  *E-commerce platform built with Laravel, Livewire, and Tailwind CSS with AI Chatbot integration.*  
+- 🛒 [EcoLens](https://www.ecolens.my.id/)  
+  *EcoLens AI is a smart assistant that uses AI to identify waste and guide sustainable disposal.*  
 
 ---
 

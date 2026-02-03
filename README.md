@@ -8,7 +8,7 @@
 - **Languages**: PHP, JavaScript, Python, Java, VB.NET
 - **Frameworks & Tools**: Laravel, Livewire 3, Tailwind CSS, Filament, React, Vue, Nuxt, Streamlit, WordPress, Elementor
 - **Databases**: MySQL, SQLite, Firebase  
-- **Others**: Git, GitHub, VS Code, Visual Studio, Android Studio, Google Colab, Figma, Trello, Notion
+- **Others**: Docker, Linux, Git, GitHub, VS Code, Visual Studio, Android Studio, Google Colab, Figma, Trello, Notion
 
 ---
 

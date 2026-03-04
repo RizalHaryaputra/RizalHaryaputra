@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Let's Connect!
-- 🌐 Portfolio: [rizalharyaputra.vercel.app](https://rizalharyaputra.vercel.app)  
+- 🌐 Portfolio: [rizalharyaputra.my.id](https://rizalharyaputra.my.id)  
 - 📷 Instagram: [@rzalhrya_](https://instagram.com/rzalhrya_)  
 - 📧 Email: [rzlhryptr@gmail.com](mailto:rzlhryptr@gmail.com)
 - 📱 WhatsApp: [+62 878 5503 8324](https://wa.me/6287855038324?text=Hi%2C%20Rizal)  

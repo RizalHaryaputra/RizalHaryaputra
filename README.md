@@ -19,7 +19,7 @@
 - 🏣 [Kopma UNY](https://kopmauny.id/)  
   *A web application for managing the operations, membership, and services of the student cooperative at Universitas Negeri Yogyakarta.*
 
-- 🛒 [EcoLens](https://www.ecolens.my.id/)  
+- 🗑️ [EcoLens](https://www.ecolens.my.id/)  
   *EcoLens AI is a smart assistant that uses AI to identify waste and guide sustainable disposal.*  
 
 ---
